@@ -15,3 +15,4 @@ git brach dev // crea otra rama para varias versiones
 git add origin master// luego de modificar agrega el archivo
 git commit -m 'descripcion' //damos commit al proyecto
 git push origin master //enviamos el proyecto a la rama
+git brach //crea una nueva rama
